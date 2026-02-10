@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Kairipzz | Ryuza Official</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <meta name="robots" content="noindex">
+</head>
+<body>
+
+<header class="glass-header">
+  <div class="container">
+    <div class="header-title">
+      <span class="title-main">Kairipzz</span>
+      <span class="title-sub">Ryuza Official</span>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <section class="section-top">
+    <div>
+      <h1 class="section-title">Daftar Script</h1>
+      <p class="section-subtitle">Klik tombol dikiri untuk liat scriptnya yaa</p>
+    </div>
+    <input id="search" type="search" placeholder="Cari hero..." class="glass-search">
+  </section>
+
+  <div class="role-filter-container">
+    <div class="role-scroll">
+      <button class="role-btn active" data-role="all">All Heroes</button>
+      <button class="role-btn" data-role="Assassin">Assassin</button>
+      <button class="role-btn" data-role="Fighter">Fighter</button>
+      <button class="role-btn" data-role="Mage">Mage</button>
+      <button class="role-btn" data-role="Tank">Tank</button>
+      <button class="role-btn" data-role="Marksman">Marksman</button>
+      <button class="role-btn" data-role="Support">Support</button>
+    </div>
+  </div>
+
+  <div class="hero-list-background">
+    <div id="loading" class="loading-skeleton">
+      <div class="skeleton-item"></div>
+      <div class="skeleton-item"></div>
+    </div>
+
+    <div class="list-container">
+      <div id="listWrap" class="masonry-grid"></div>
+    </div>
+
+    <div id="emptyState" class="empty-state">Tidak ada data</div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div>© 2025 Kairipzz | Ryuza Official</div>
+  <div>Semua Script ini dari Ryuza Official ya, jadi kemungkinan besarnya ini aman!!</div>
+</footer>
+
+<template id="itemTpl">
+  <div class="hero-card">
+    <div class="hero-img"></div>
+    <div class="hero-content">
+      <div class="hero-header">
+        <div class="hero-text">
+          <div class="hero-name">Hero</div>
+          <div class="hero-desc">Desc</div>
+        </div>
+        <button class="chevron-btn"><span class="chevron-icon">⟨</span></button>
+      </div>
+      <div class="expanded-area">
+        <div class="variants-grid"></div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script src="main.js"></script>
+</body>
+</html>

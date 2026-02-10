@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Aamon",
+    "image": "img/aamon.jpg",
+    "description": "Assassin",
+    "series": [
+      {
+        "name": "Collector",
+        "items": [
+          { "name": "Elite to Collector", "link": "https://www.mediafire.com/file/qwimkf0joup3hsq/Aamon_Collector_Replace_Elite.zip/file" }
+        ]
+      },
+      {
+        "name": "Soul Vessel",
+        "items": [
+          { "name": "Elite to Soul Vessel", "link": "https://www.mediafire.com/file/c72kteq8xtg2goq/Aamon_Soul_Vessel_Replace_Elite.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arlott",
+    "image": "img/arlott.jpg",
+    "description": "Fighter/Assassin",
+    "series": [
+      {
+        "name": "Collector",
+        "items": [
+          { "name": "Default to Collector", "link": "https://www.mediafire.com/file/czm8pvt3kq0m0x2/Arlott_default_to_Collector.7z/file" },
+          { "name": "Basic to Collector", "link": "https://www.mediafire.com/file/00dsihtraurowu7/Arlott_basic_to_Collector.7z/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chou",
+    "image": "img/chou.jpg",
+    "description": "Fighter",
+    "series": [
+      {
+        "name": "KOF",
+        "items": [
+          { "name": "Default to KOF", "link": "https://www.mediafire.com/file/86s0gm3xlgtxzpw/Chou+Default+to+KOF.zip/file" },
+          { "name": "Basic to KOF", "link": "https://www.mediafire.com/file/1y3bmimysz6e8lk/Chou+Basic+to+KOF.zip/file" },
+          { "name": "Elite to KOF", "link": "https://www.mediafire.com/file/nzmjpg1bnfuh28j/Chou+Elite+to+KOF.zip/file" },
+          { "name": "Starlight to KOF", "link": "https://www.mediafire.com/file/gtifybrqpg63q06/Chou+Starlight+to+KOF.zip/file" },
+          { "name": "Special to KOF", "link": "https://www.mediafire.com/file/5oghx00ub9p6cc5/Chou+Special+to+KOF.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fanny",
+    "image": "img/fanny.jpg",
+    "description": "Assassin",
+    "series": [
+      {
+        "name": "Aspirant",
+        "items": [
+          { "name": "Default to Aspirant", "link": "https://www.mediafire.com/file/wec7u23skk6e1ag/Fanny_Default_to_Aspirant.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fredrinn",
+    "image": "img/fredrin.jpg",
+    "description": "Fighter",
+    "series": [
+      {
+        "name": "NEOBEAST",
+        "items": [
+          { "name": "Default to NEOBEAST", "link": "https://sfile.mobi/8BnCglPX9YS" },
+          { "name": "Basic to NEOBEAST", "link": "https://sfile.mobi/1VHyAkc6Qwv" },
+          { "name": "Elite to NEOBEAST", "link": "https://sfile.mobi/87PC0K6Kcgt" },
+          { "name": "SPARKLE to NEOBEAST", "link": "https://sfile.mobi/4MZAaJhP2MQ" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gatotkaca",
+    "image": "img/gatot.jpg",
+    "description": "Tank",
+    "series": [
+      {
+        "name": "Luckybox",
+        "items": [
+          { "name": "Default to Luckybox", "link": "https://www.mediafire.com/file/9enllsm5taztocs/Gatotkaca+Default+to+Luckybox.zip/file" },
+          { "name": "Basic to Luckybox", "link": "https://www.mediafire.com/file/4ktwoq28we07azt/Gatotkaca+Basic+to+Luckybox.zip/file" },
+          { "name": "Elite Arhat to Luckybox", "link": "https://www.mediafire.com/file/lcdcpmo08zwjpox/Gatotkaca+Elite+Arhat+to+Luckybox.zip/file" },
+          { "name": "Elite Spark to Luckybox", "link": "https://www.mediafire.com/file/9ydayfyean170mx/Gatotkaca+Elite+Spark+to+Luckybox.zip/file" },
+          { "name": "Starlight to Luckybox", "link": "https://www.mediafire.com/file/3xi799alloyjufv/Gatotkaca+Starlight+to+Luckybox.zip/file" },
+          { "name": "Epic to Luckybox", "link": "https://www.mediafire.com/file/fwqq7c6wik1dzvw/Gatotkaca+Epic+to+Luckybox.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Granger",
+    "image": "img/granger.jpg",
+    "description": "Marksman",
+    "series": [
+      {
+        "name": "Legend",
+        "items": [
+          { "name": "Default to Legend", "link": "https://www.mediafire.com/file/ykb8a2qo6u6134d/Granger+Default+to+Legend.zip/file" },
+          { "name": "Basic to Legend", "link": "https://www.mediafire.com/file/gnhx4q0g0w426sc/Granger+Basic+to+Legend.zip/file" },
+          { "name": "Elite to Legend", "link": "https://www.mediafire.com/file/woh1pva1fpeajy5/Granger+Elite+to+Legend.zip/file" },
+          { "name": "Starlight to Legend", "link": "https://www.mediafire.com/file/eeupow4xntckqul/Granger+Starlight+to+Legend.zip/file" },
+          { "name": "Lightborn to Legend", "link": "https://www.mediafire.com/file/h6maexhli0t29dj/Granger+Lighborn+to+Legend.zip/file" },
+          { "name": "Create to Legend", "link": "https://www.mediafire.com/file/n0pk8ss62boz1zc/Granger+Create+to+Legend.zip/file" },
+          { "name": "Valentine to Legend", "link": "https://www.mediafire.com/file/alj6tm0z5e7bq4m/Granger+Valentine+to+Legend.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Joy",
+    "image": "img/joy.jpg",
+    "description": "Assassin",
+    "series": [
+      {
+        "name": "Champion",
+        "items": [
+          { "name": "Basic to Champion", "link": "https://www.mediafire.com/file/6lk1hgsu3znpfta/Joy_Basic_to_Champion.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Julian",
+    "image": "img/julian.jpg",
+    "description": "Mage/Fighter",
+    "series": [
+      {
+        "name": "Jujutsu",
+        "items": [
+          { "name": "Default to Jujutsu", "link": "https://www.mediafire.com/file/4ga7jqw4pi7wrqg/Julian+Default+to+Jujutsu.zip/file" },
+          { "name": "Basic to Jujutsu", "link": "https://www.mediafire.com/file/qmu1t7eeshxntmc/Julian+Basic+to+Jujutsu.zip/file" },
+          { "name": "Meowskin to Jujutsu", "link": "https://www.mediafire.com/file/e6bowvy2hrzvcqf/Julian+Meowskin+to+Jujutsu.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lukas",
+    "image": "img/lukas.jpg",
+    "description": "Fighter",
+    "series": [
+      {
+        "name": "NARUTO",
+        "items": [
+          { "name": "Default to NARUTO", "link": "https://sfile.mobi/WPbTXqXDJQ5" },
+          { "name": "Basic to NARUTO", "link": "https://sfile.mobi/s0p9jqycAsh" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lancelot",
+    "image": "img/lancelot.jpg",
+    "description": "Assassin",
+    "series": [
+      {
+        "name": "Dawningstar",
+        "items": [
+          { "name": "Epicshop to Dawningstar", "link": "https://www.mediafire.com/file/dzna8ix3hsfwtiu/Lancelot_Dawningstar_Replace_Epic.zip/file" }
+        ]
+      },
+      {
+        "name": "Kishin Densetsu",
+        "items": [
+          { "name": "Dragon Tamer to Kishin Densetsu", "link": "https://sfile.mobi/3r3uo18Lw50" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lapu-Lapu",
+    "image": "img/lapu.jpg",
+    "description": "Fighter",
+    "series": [
+      {
+        "name": "Collector",
+        "items": [
+          { "name": "Season to Collector", "link": "https://www.mediafire.com/file/c8acx6wi25c1yjl/Season_-_Lapu-Lapu_Collector.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nolan",
+    "image": "img/nolan.jpg",
+    "description": "Assassin",
+    "series": [
+      {
+        "name": "11.11",
+        "items": [
+          { "name": "Basic to 11.11", "link": "https://www.mediafire.com/file/tq5meykcxl6ns0m/Nolan_11.11_Replace_Basic.zip/file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Suyou",
+    "image": "img/suyou.jpg",
+    "description": "Assassin",
+    "series": [
+      {
+        "name": "NARUTO",
+        "items": [
+          { "name": "Default to NARUTO", "link": "https://sfile.mobi/MGELDEVtsYW" },
+          { "name": "Basic to NARUTO", "link": "https://sfile.mobi/AYMnHs6Ly0t" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Xavier",
+    "image": "img/xavier.jpg",
+    "description": "Mage",
+    "series": [
+      {
+        "name": "JJK",
+        "items": [
+          { "name": "Default to JJK", "link": "https://sfile.mobi/b6vFSJ0PrU7" },
+          { "name": "Basic to JJK", "link": "https://sfile.mobi/bdTFWYM98c7" },
+          { "name": "Starlight to JJK", "link": "https://sfile.mobi/3eY91C1pzyd" },
+          { "name": "BTC to JJK", "link": "https://sfile.mobi/1kM7Yxnd3ih" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yi Sun Shin",
+    "image": "img/yss.jpg",
+    "description": "Assassin/Marksman",
+    "series": [
+      {
+        "name": "Collector",
+        "items": [
+          { "name": "Default to Collector", "link": "https://sfile.mobi/8Bo72Ni6vmV" },
+          { "name": "Basic to Collector", "link": "https://sfile.mobi/5gy5d8iHjOd" },
+          { "name": "Elite (Roguish Ranger) to Collector", "link": "https://sfile.mobi/3PU4s8cju0J" },
+          { "name": "Elite (Apocalypse Agent) to Collector", "link": "https://sfile.mobi/3mm4bDTjCUl" },
+          { "name": "Starlight to Collector", "link": "https://sfile.mobi/5vk5nzTFvOy" },
+          { "name": "Epic to Collector (On Coming)", "link": "on coming" },
+          { "name": "Season to Collector", "link": "https://sfile.mobi/3Xi4wJN99eT" }
+        ]
+      }
+    ]
+  }
+]
