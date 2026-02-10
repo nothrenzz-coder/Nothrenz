@@ -97,6 +97,40 @@
     ]
   },
   {
+    "name": "Gusion",
+    "image": "img/gusion.jpg",
+    "description": "Mage/Assasin",
+    "series": [
+      {
+        "name": "NARUTO",
+        "items": [
+          { "name": "Default to NARUTO", "link": "https://sfile.co/2vSXtGrSJkK" },
+          { "name": "Basic to NARUTO", "link": "https://sfile.co/fjMGKs0Vjvi" },
+          { "name": "Elite to NARUTO", "link": "https://sfile.co/7fcPusC5NS3" },
+          { "name": "OLD Starlight to NARUTO", "link": "https://sfile.co/S1ymFAm7olt" },
+          { "name": "Valentine to NARUTO", "link": "https://sfile.co/Enw64sz1ZXr" },
+          { "name": "Venom to NARUTO",
+          "link": "https://sfile.co/E3BYITFXbA1" },
+          {"name": "KOF to NARUTO",
+            "link": "https://sfile.co/VNASfBrW7ez" },
+            {"name": "Legend to NARUTO",
+              "link": "https://sfile.co/1iKCphDU73u" },
+              {"name": "Collector to NARUTO", "link": "https://sfile.co/YhtWXZrmy81"},
+              {"name": "Epic to NARUTO",
+                "link": "https://sfile.co/BLLUBMkFIkJ"},
+            {"name": "11.11 to NARUTO",
+              "link": "https://sfile.co/nn3xNa4AWCr"
+            },
+            {"name": "NEW Starlight to NARUTO",
+              "link": "https://sfile.co/qCND1iHFoVX"
+            }
+              
+          
+        ]
+      }
+    ]
+  },
+  {
     "name": "Granger",
     "image": "img/granger.jpg",
     "description": "Marksman",
@@ -138,7 +172,23 @@
         "items": [
           { "name": "Default to Jujutsu", "link": "https://www.mediafire.com/file/4ga7jqw4pi7wrqg/Julian+Default+to+Jujutsu.zip/file" },
           { "name": "Basic to Jujutsu", "link": "https://www.mediafire.com/file/qmu1t7eeshxntmc/Julian+Basic+to+Jujutsu.zip/file" },
-          { "name": "Meowskin to Jujutsu", "link": "https://www.mediafire.com/file/e6bowvy2hrzvcqf/Julian+Meowskin+to+Jujutsu.zip/file" }
+          { "name": "Meowskin to Jujutsu", "link": "https://www.mediafire.com/file/e6bowvy2hrzvcqf/Julian+Meowskin+to+Jujutsu.zip/file" },
+          { "name": "NARUTO to JJK (On Coming)",
+            "link": "in-coming"
+          }
+        ]
+      },
+      {
+        "name": "NARUTO",
+        "items": [
+          { "name": "Default to NARUTO", "link": "https://sfile.co/F7qFM1IeBGT" },
+          { "name": "Basic to NARUTO", "link": "https://sfile.co/LP1C4OKJULk" },
+          { "name": "Meowskin to NARUTO", "link": "https://sfile.co/BBA6XgqW6mx" },
+          { "name": "JKK to NARUTO",
+            "link": "https://sfile.co/dEBOD8pmOKf" },
+            {"name": "HxH to NARUTO",
+              "link": "https://sfile.co/zpsf1z6N2fG"
+            }
         ]
       }
     ]
@@ -251,4 +301,4 @@
       }
     ]
   }
-]
+    ]
