@@ -450,7 +450,7 @@ body::before {
     gap: 10px;
   }
   
-  .masonry-grid { column-count: 3; }
+  .masonry-grid { column-count: 2; }
   .hero-card {
     padding: 12px;
     min-height: 72px;
