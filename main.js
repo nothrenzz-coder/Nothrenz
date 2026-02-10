@@ -1,4 +1,4 @@
-const listWrap = document.getElementById('listWrap');
+load();const listWrap = document.getElementById('listWrap');
 const loadingEl = document.getElementById('loading');
 const emptyState = document.getElementById('emptyState');
 const searchInput = document.getElementById('search');
@@ -6,6 +6,7 @@ const searchInput = document.getElementById('search');
 let HEROES = [];
 let selectedRole = 'all';
 let searchTimeout;
+let currentlyOpenCard = null; // Menyimpan card yang sedang terbuka
 
 function imageEl(src, alt) {
   const img = document.createElement('img');
@@ -53,58 +54,69 @@ function renderItem(h) {
       expanded.style.overflow = 'hidden';
       expanded.style.height = '0';
       
+      // TAMBAH: Force reflow sebelum animasi
       expanded.offsetHeight;
       
       const targetHeight = expanded.scrollHeight;
       expanded.style.height = targetHeight + 'px';
       expanded.classList.add('show');
       
-      const onTransitionEnd = () => {
+      setTimeout(() => {
         expanded.style.height = 'auto';
         expanded.style.overflow = 'visible';
         isAnimating = false;
-        expanded.removeEventListener('transitionend', onTransitionEnd);
-      };
-      
-      expanded.addEventListener('transitionend', onTransitionEnd, { once: true });
-      
-      setTimeout(() => {
-        if (isAnimating) {
-          expanded.style.height = 'auto';
-          expanded.style.overflow = 'visible';
-          isAnimating = false;
-        }
-      }, 500);
+        
+        // TAMBAH: Check jika ada series yang kepotong
+        checkAndFixCutoffSeries();
+      }, 300);
       
     } else {
       const startHeight = expanded.scrollHeight;
       expanded.style.height = startHeight + 'px';
       expanded.style.overflow = 'hidden';
       
-      requestAnimationFrame(() => {
+      setTimeout(() => {
         expanded.style.height = '0px';
         expanded.classList.remove('show');
         
-        const onTransitionEnd = () => {
+        setTimeout(() => {
           expanded.style.display = 'none';
           expanded.style.height = '';
           expanded.style.overflow = '';
           isAnimating = false;
-          expanded.removeEventListener('transitionend', onTransitionEnd);
-        };
-        
-        expanded.addEventListener('transitionend', onTransitionEnd, { once: true });
-        
-        setTimeout(() => {
-          if (isAnimating) {
-            expanded.style.display = 'none';
-            expanded.style.height = '';
-            expanded.style.overflow = '';
-            isAnimating = false;
-          }
-        }, 500);
-      });
+        }, 300);
+      }, 10);
     }
+  }
+  
+  function checkAndFixCutoffSeries() {
+    // Cek semua series content yang terbuka
+    const allSeriesContents = card.querySelectorAll('.series-content');
+    
+    allSeriesContents.forEach(content => {
+      if (content.style.height !== '0px' && content.style.height !== '') {
+        const inner = content.querySelector('.series-content-inner');
+        if (inner) {
+          const innerRect = inner.getBoundingClientRect();
+          const contentRect = content.getBoundingClientRect();
+          
+          // Jika inner lebih tinggi dari container, artinya kepotong
+          if (innerRect.height > contentRect.height) {
+            // Adjust height supaya tidak kepotong
+            const newHeight = inner.scrollHeight + 8; // Tambah buffer
+            content.style.height = newHeight + 'px';
+            
+            // TAMBAH: Scroll card ke view jika kepotong
+            const cardRect = card.getBoundingClientRect();
+            const listWrapRect = listWrap.getBoundingClientRect();
+            
+            if (cardRect.bottom > listWrapRect.bottom - 20) {
+              card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
+          }
+        }
+      }
+    });
   }
   
   function renderSeriesContent() {
@@ -138,17 +150,48 @@ function renderItem(h) {
       
       content.appendChild(inner);
       
+      let seriesAnimating = false;
       header.addEventListener('click', (e) => {
         e.stopPropagation();
+        
+        if (seriesAnimating) return;
+        seriesAnimating = true;
         
         const isSeriesOpen = content.style.height !== '0px' && content.style.height !== '';
         
         if (!isSeriesOpen) {
-          content.style.height = inner.scrollHeight + 'px';
+          // TAMBAH: Buffer untuk mencegah kepotong
+          const targetHeight = inner.scrollHeight + 4;
+          content.style.height = targetHeight + 'px';
           header.classList.add('active');
+          
+          setTimeout(() => {
+            seriesAnimating = false;
+            
+            // TAMBAH: Cek lagi setelah animasi selesai
+            const innerRect = inner.getBoundingClientRect();
+            const contentRect = content.getBoundingClientRect();
+            
+            // Jika masih kepotong, adjust lagi
+            if (innerRect.height > contentRect.height - 4) {
+              content.style.height = inner.scrollHeight + 8 + 'px';
+            }
+          }, 300);
+          
         } else {
-          content.style.height = '0px';
-          header.classList.remove('active');
+          // TAMBAH: Simpan height yang benar sebelum menutup
+          const startHeight = content.scrollHeight;
+          content.style.height = startHeight + 'px';
+          content.style.overflow = 'hidden';
+          
+          setTimeout(() => {
+            content.style.height = '0px';
+            header.classList.remove('active');
+            
+            setTimeout(() => {
+              seriesAnimating = false;
+            }, 300);
+          }, 10);
         }
       });
       
@@ -169,6 +212,9 @@ function renderItem(h) {
 function renderList(list) {
   listWrap.innerHTML = '';
   
+  // Reset currentlyOpenCard saat render ulang
+  currentlyOpenCard = null;
+  
   if (!list || list.length === 0) {
     emptyState.classList.add('show');
     emptyState.style.display = 'block';
@@ -187,6 +233,21 @@ function renderList(list) {
 
 function applyFilters() {
   const searchQuery = searchInput.value.toLowerCase().trim();
+  
+  // Tutup card yang sedang terbuka sebelum filter
+  if (currentlyOpenCard) {
+    const chevBtn = currentlyOpenCard.querySelector('.chevron-btn');
+    const expanded = currentlyOpenCard.querySelector('.expanded-area');
+    
+    if (expanded && expanded.style.display === 'block') {
+      chevBtn.classList.remove('active');
+      expanded.style.display = 'none';
+      expanded.style.height = '';
+      expanded.classList.remove('show');
+      currentlyOpenCard.isOpen = false;
+    }
+    currentlyOpenCard = null;
+  }
   
   let filtered = HEROES;
   
