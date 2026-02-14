@@ -1,37 +1,42 @@
 [
   {
-    "name": "Aamon",
-    "image": "img/aamon.jpg",
-    "description": "Assassin",
-    "series": [
-      {
-        "name": "Collector",
-        "items": [
-          { "name": "Elite to Collector", "link": "https://www.mediafire.com/file/qwimkf0joup3hsq/Aamon_Collector_Replace_Elite.zip/file" }
-        ]
-      },
-      {
-        "name": "Soul Vessel",
-        "items": [
-          { "name": "Elite to Soul Vessel", "link": "https://www.mediafire.com/file/c72kteq8xtg2goq/Aamon_Soul_Vessel_Replace_Elite.zip/file" }
-        ]
-      }
-    ]
-  },
+  "name": "Aamon",
+  "image": "img/aamon.jpg",
+  "description": "Assassin",
+  "series": [
+    {
+      "name": "Collector",
+      "items": [
+        { "name": "Default to Collector", "link": "https://sfile.co/8Bptvon2928" },
+        { "name": "Basic to Collector", "link": "https://sfile.co/2wFq9A3eswF" },
+        { "name": "Elite to Collector", "link": "https://sfile.co/5gzrFysRYAy" },
+        { "name": "Starlight to Collector", "link": "https://sfile.co/4yfrhrd1CMt" },
+        { "name": "Soul Vessel to Collector", "link": "https://sfile.co/bdVuXDLCU07" }
+      ]
+    },
+    {
+      "name": "Soul Vessel",
+      "items": [
+        { "name": "Elite to Soul Vessel", "link": "https://www.mediafire.com/file/c72kteq8xtg2goq/Aamon_Soul_Vessel_Replace_Elite.zip/file" }
+      ]
+    }
+  ]
+},
   {
-    "name": "Arlott",
-    "image": "img/arlott.jpg",
-    "description": "Fighter/Assassin",
-    "series": [
-      {
-        "name": "Collector",
-        "items": [
-          { "name": "Default to Collector", "link": "https://www.mediafire.com/file/czm8pvt3kq0m0x2/Arlott_default_to_Collector.7z/file" },
-          { "name": "Basic to Collector", "link": "https://www.mediafire.com/file/00dsihtraurowu7/Arlott_basic_to_Collector.7z/file" }
-        ]
-      }
-    ]
-  },
+  "name": "Arlott",
+  "image": "img/arlott.jpg",
+  "description": "Fighter/Assassin",
+  "series": [
+    {
+      "name": "Collector",
+      "items": [
+        { "name": "Default to Collector", "link": "https://sfile.co/3tIaeuTK8oq" },
+        { "name": "Basic to Collector", "link": "https://sfile.co/a9odV3hRniE" },
+        { "name": "Starlight to Collector", "link": "https://sfile.co/1s897wjJScM" }
+      ]
+    }
+  ]
+},
   {
     "name": "Chou",
     "image": "img/chou.jpg",
@@ -50,34 +55,43 @@
     ]
   },
   {
-    "name": "Fanny",
-    "image": "img/fanny.jpg",
-    "description": "Assassin",
-    "series": [
-      {
-        "name": "Aspirant",
-        "items": [
-          { "name": "Default to Aspirant", "link": "https://www.mediafire.com/file/wec7u23skk6e1ag/Fanny_Default_to_Aspirant.zip/file" }
-        ]
-      }
-    ]
-  },
+  "name": "Fanny",
+  "image": "img/fanny.jpg",
+  "description": "Assassin",
+  "series": [
+    {
+      "name": "Aspirant",
+      "items": [
+        { "name": "Default to Aspirant", "link": "https://sfile.co/a9oSJk6qpUy" },
+        { "name": "Imperial to Aspirant", "link": "https://sfile.co/3mkOZdC1nOD" },
+        { "name": "Elite to Aspirant", "link": "https://sfile.co/aoaSSIcQISE" },
+        { "name": "Lightborn to Aspirant", "link": "https://sfile.co/9jGSjWE91Kb" },
+        { "name": "Season to Aspirant", "link": "https://sfile.co/598Q09tZYIU" },
+        { "name": "Summer to Aspirant", "link": "https://sfile.co/9FQSuWMwjCe" },
+        { "name": "Christmas to Aspirant", "link": "https://sfile.co/5K4Qk0YwDYA" },
+        { "name": "Valentine to Aspirant", "link": "https://sfile.co/aZ6TfdqK5MK" },
+        { "name": "Skylark to Aspirant", "link": "https://sfile.co/3IuPdoe2kE2" }
+      ]
+    }
+  ]
+},
   {
-    "name": "Fredrinn",
-    "image": "img/fredrin.jpg",
-    "description": "Fighter",
-    "series": [
-      {
-        "name": "NEOBEAST",
-        "items": [
-          { "name": "Default to NEOBEAST", "link": "https://sfile.mobi/8BnCglPX9YS" },
-          { "name": "Basic to NEOBEAST", "link": "https://sfile.mobi/1VHyAkc6Qwv" },
-          { "name": "Elite to NEOBEAST", "link": "https://sfile.mobi/87PC0K6Kcgt" },
-          { "name": "SPARKLE to NEOBEAST", "link": "https://sfile.mobi/4MZAaJhP2MQ" }
-        ]
-      }
-    ]
-  },
+  "name": "Fredrinn",
+  "image": "img/fredrin.jpg",
+  "description": "Fighter",
+  "series": [
+    {
+      "name": "NEOBEAST",
+      "items": [
+        { "name": "Default to NEOBEAST", "link": "https://sfile.co/9cmllnj9jah" },
+        { "name": "Basic to NEOBEAST", "link": "https://sfile.co/37ChZJU6Bqw" },
+        { "name": "Elite to NEOBEAST", "link": "https://sfile.co/aKirxo31fMt" },
+        { "name": "SPARKLE to NEOBEAST", "link": "https://sfile.co/aRGrBDOkW4T" },
+        { "name": "Starlight to NEOBEAST", "link": "https://sfile.co/jXfRmiuR8m6" }
+      ]
+    }
+  ]
+},
   {
     "name": "Gatotkaca",
     "image": "img/gatot.jpg",
@@ -97,58 +111,148 @@
     ]
   },
   {
-    "name": "Gusion",
-    "image": "img/gusion.jpg",
-    "description": "Mage/Assasin",
-    "series": [
-      {
-        "name": "NARUTO",
-        "items": [
-          { "name": "Default to NARUTO", "link": "https://sfile.co/2vSXtGrSJkK" },
-          { "name": "Basic to NARUTO", "link": "https://sfile.co/fjMGKs0Vjvi" },
-          { "name": "Elite to NARUTO", "link": "https://sfile.co/7fcPusC5NS3" },
-          { "name": "OLD Starlight to NARUTO", "link": "https://sfile.co/S1ymFAm7olt" },
-          { "name": "Valentine to NARUTO", "link": "https://sfile.co/Enw64sz1ZXr" },
-          { "name": "Venom to NARUTO",
-          "link": "https://sfile.co/E3BYITFXbA1" },
-          {"name": "KOF to NARUTO",
-            "link": "https://sfile.co/VNASfBrW7ez" },
-            {"name": "Legend to NARUTO",
-              "link": "https://sfile.co/1iKCphDU73u" },
-              {"name": "Collector to NARUTO", "link": "https://sfile.co/YhtWXZrmy81"},
-              {"name": "Epic to NARUTO",
-                "link": "https://sfile.co/BLLUBMkFIkJ"},
-            {"name": "11.11 to NARUTO",
-              "link": "https://sfile.co/nn3xNa4AWCr"
-            },
-            {"name": "NEW Starlight to NARUTO",
-              "link": "https://sfile.co/qCND1iHFoVX"
-            }
-              
-          
-        ]
-      }
-    ]
-  },
+  "name": "Gusion",
+  "image": "img/gusion.jpg",
+  "description": "Mage/Assassin",
+  "series": [
+    {
+      "name": "NARUTO",
+      "items": [
+        { "name": "Default to NARUTO", "link": "https://sfile.co/2vSXtGrSJkK" },
+        { "name": "Basic to NARUTO", "link": "https://sfile.co/fjMGKs0Vjvi" },
+        { "name": "Elite to NARUTO", "link": "https://sfile.co/7fcPusC5NS3" },
+        { "name": "OLD Starlight to NARUTO", "link": "https://sfile.co/S1ymFAm7olt" },
+        { "name": "Valentine to NARUTO", "link": "https://sfile.co/Enw64sz1ZXr" },
+        { "name": "Venom to NARUTO", "link": "https://sfile.co/E3BYITFXbA1" },
+        { "name": "KOF to NARUTO", "link": "https://sfile.co/VNASfBrW7ez" },
+        { "name": "Legend to NARUTO", "link": "https://sfile.co/1iKCphDU73u" },
+        { "name": "Collector to NARUTO", "link": "https://sfile.co/YhtWXZrmy81" },
+        { "name": "Epic to NARUTO", "link": "https://sfile.co/BLLUBMkFIkJ" },
+        { "name": "11.11 to NARUTO", "link": "https://sfile.co/nn3xNa4AWCr" },
+        { "name": "NEW Starlight to NARUTO", "link": "https://sfile.co/qCND1iHFoVX" }
+      ]
+    },
+    {
+      "name": "11.11",
+      "items": [
+        { "name": "Default to 11.11", "link": "https://sfile.co/1GGZDoRtcEB" },
+        { "name": "Basic to 11.11", "link": "https://sfile.co/aYT4LQOFfak" },
+        { "name": "Elite to 11.11", "link": "https://sfile.co/6GX2pz2Mj6E" },
+        { "name": "Epic to 11.11", "link": "https://sfile.co/5JR1Ti5Ow0k" },
+        { "name": "Starlight to 11.11", "link": "https://sfile.co/8eZ3h6OkBU5" },
+        { "name": "New Starlight to 11.11", "link": "https://sfile.co/3IlRy7K2Y07" },
+        { "name": "Valentine to 11.11", "link": "https://sfile.co/22QZRoyJaEK" },
+        { "name": "Venom to 11.11", "link": "https://sfile.co/agAfN7IxHi8" },
+        { "name": "Legend to 11.11", "link": "https://sfile.co/9N2fwZf3O0A" }
+      ]
+    }
+  ]
+},
   {
-    "name": "Granger",
-    "image": "img/granger.jpg",
-    "description": "Marksman",
-    "series": [
-      {
-        "name": "Legend",
-        "items": [
-          { "name": "Default to Legend", "link": "https://www.mediafire.com/file/ykb8a2qo6u6134d/Granger+Default+to+Legend.zip/file" },
-          { "name": "Basic to Legend", "link": "https://www.mediafire.com/file/gnhx4q0g0w426sc/Granger+Basic+to+Legend.zip/file" },
-          { "name": "Elite to Legend", "link": "https://www.mediafire.com/file/woh1pva1fpeajy5/Granger+Elite+to+Legend.zip/file" },
-          { "name": "Starlight to Legend", "link": "https://www.mediafire.com/file/eeupow4xntckqul/Granger+Starlight+to+Legend.zip/file" },
-          { "name": "Lightborn to Legend", "link": "https://www.mediafire.com/file/h6maexhli0t29dj/Granger+Lighborn+to+Legend.zip/file" },
-          { "name": "Create to Legend", "link": "https://www.mediafire.com/file/n0pk8ss62boz1zc/Granger+Create+to+Legend.zip/file" },
-          { "name": "Valentine to Legend", "link": "https://www.mediafire.com/file/alj6tm0z5e7bq4m/Granger+Valentine+to+Legend.zip/file" }
-        ]
-      }
-    ]
-  },
+  "name": "Granger",
+  "image": "img/granger.jpg",
+  "description": "Marksman",
+  "series": [
+    {
+      "name": "Legend",
+      "items": [
+        { "name": "Default to Legend", "link": "https://sfile.co/51CxxX6hGo4" },
+        { "name": "Basic to Legend", "link": "https://sfile.co/73cyFDljRS8" },
+        { "name": "Create to Legend", "link": "https://sfile.co/1zuiW07Jhen" },
+        { "name": "Collector to Legend", "link": "https://sfile.co/4qP1wAwYcwZ" },
+        { "name": "Elite to Legend", "link": "https://sfile.co/6H2ytVxUEEs" },
+        { "name": "Exorcist to Legend", "link": "https://sfile.co/6Oz2QvjGxyN" },
+        { "name": "Lightborn to Legend", "link": "https://sfile.co/9cazRKgqJig" },
+        { "name": "Starlight to Legend", "link": "https://sfile.co/8BezxHR96gJ" },
+        { "name": "Transformers to Legend", "link": "https://sfile.co/8Q93Y0DXK87" },
+        { "name": "Valentine to Legend", "link": "https://sfile.co/aCX4Xmh7vq9" }
+      ]
+    },
+    {
+      "name": "Exorcist",
+      "items": [
+        { "name": "Default to Exorcist", "link": "https://sfile.co/6kSsQc5BmwN" },
+        { "name": "Basic to Exorcist", "link": "https://sfile.co/9UuuOTlUTCW" },
+        { "name": "Elite to Exorcist", "link": "https://sfile.co/302r13Qt7qN" },
+        { "name": "Create to Exorcist", "link": "https://sfile.co/4FsrWkD4ake" },
+        { "name": "Collector to Exorcist", "link": "https://sfile.co/GJ4dRHsgUTN" },
+        { "name": "Lightborn to Exorcist", "link": "https://sfile.co/5vasp3tKbms" },
+        { "name": "Starlight to Exorcist", "link": "https://sfile.co/aRAvmKxHwWT" },
+        { "name": "Valentine to Exorcist", "link": "https://sfile.co/1GMqiUbl8wy" },
+        { "name": "Transformers to Exorcist", "link": "https://sfile.co/B2ZAC9RzSmJ" },
+        { "name": "Legend to Exorcist", "link": "https://sfile.co/ty6F2Oewcfb" }
+      ]
+    },
+    {
+      "name": "PRIME",
+      "items": [
+        { "name": "Default to PRIME", "link": "https://sfile.co/kWVBS5Ni9BY" },
+        { "name": "Basic to PRIME", "link": "https://sfile.co/nniRB5y2ZqO" },
+        { "name": "Elite to PRIME", "link": "https://sfile.co/Vg8MYBePJgE" },
+        { "name": "Create to PRIME", "link": "https://sfile.co/NHRztM6zk1N" },
+        { "name": "Collector to PRIME", "link": "https://sfile.co/yhDMSjLasMb" },
+        { "name": "Exorcist to PRIME", "link": "https://sfile.co/85IhB5tlx4E" },
+        { "name": "Legend to PRIME", "link": "https://sfile.co/sijgUxiIWKp" },
+        { "name": "Lightborn to PRIME", "link": "https://sfile.co/OEKlgLUDWfn" },
+        { "name": "Megatron to PRIME", "link": "https://sfile.co/iHyISYL3jO1" },
+        { "name": "Special to PRIME", "link": "https://sfile.co/5YzFoMfs7TW" },
+        { "name": "Starlight to PRIME", "link": "https://sfile.co/ZSWFxuVJ05F" },
+        { "name": "Valentine to PRIME", "link": "https://sfile.co/ofVx8lMf5A4" },
+        { "name": "M7 to PRIME", "link": "https://sfile.co/z9gjbxB8JO3" }
+      ]
+    },
+    {
+      "name": "Collector",
+      "items": [
+        { "name": "Default to Collector", "link": "https://sfile.co/9NcfDPOsA81" },
+        { "name": "Basic to Collector", "link": "https://sfile.co/8f4GOk1COQa" },
+        { "name": "Elite to Collector", "link": "https://sfile.co/6zHOrQYDvOV" },
+        { "name": "Create to Collector", "link": "https://sfile.co/3PQcm6ldCgV" },
+        { "name": "Exorcist to Collector", "link": "https://sfile.co/1dkaUyBEMui" },
+        { "name": "Lightborn to Collector", "link": "https://sfile.co/308bU59zwIc" },
+        { "name": "Legend to Collector", "link": "https://sfile.co/6VUe4udigMA" },
+        { "name": "Starlight to Collector", "link": "https://sfile.co/6H8dWGlGNi1" },
+        { "name": "Transformers to Collector", "link": "https://sfile.co/6VUe50Xzdm2" },
+        { "name": "Valentine to Collector", "link": "https://sfile.co/6dAdGIMXSMb" }
+      ]
+    }
+  ]
+},
+{
+  "name": "Hayabusa",
+  "image": "img/hayabusa.jpg",
+  "description": "Assassin",
+  "series": [
+    {
+      "name": "NARUTO",
+      "items": [
+        { "name": "Default to NARUTO", "link": "https://sfile.co/4UkBhXbNfGg" },
+        { "name": "Basic to NARUTO", "link": "https://sfile.co/aZ4EEifRTMV" },
+        { "name": "Elite Future to NARUTO", "link": "https://sfile.co/bsBz9zeok87" },
+        { "name": "Elite Topup to NARUTO", "link": "https://sfile.co/b6ryXGwe8S7" },
+        { "name": "Starlight to NARUTO", "link": "https://sfile.co/80nxfPoqqW4" },
+        { "name": "Summer to NARUTO", "link": "https://sfile.co/8u3dxdShWwp" },
+        { "name": "11.11 to NARUTO", "link": "https://sfile.co/7aFAvnWTPGe" },
+        { "name": "Annual Starlight to NARUTO", "link": "https://sfile.co/9ypBPEz88oa" },
+        { "name": "Exorcist to NARUTO", "link": "https://sfile.co/bsBCYTfR0O7" },
+        { "name": "Luckybox to NARUTO", "link": "https://sfile.co/7i3AGvpLNeX" }
+      ]
+    },
+    {
+      "name": "11.11",
+      "items": [
+        { "name": "Default to 11.11", "link": "https://sfile.co/58U38r7Ltml" },
+        { "name": "Basic to 11.11", "link": "https://sfile.co/7hS4k1iBosK" },
+        { "name": "Elite Future to 11.11", "link": "https://sfile.co/4U830Dg9ZSc" },
+        { "name": "Elite Topup to 11.11", "link": "https://sfile.co/7SO4Ft1WSs2" },
+        { "name": "Luckybox to 11.11", "link": "https://sfile.co/6sa3RPcckob" },
+        { "name": "Starlight to 11.11", "link": "https://sfile.co/bHc6LrpAWW7" },
+        { "name": "Annual Starlight to 11.11", "link": "https://sfile.co/5nG3htoFOwN" },
+        { "name": "Summer to 11.11", "link": "https://sfile.co/8mm4VBvqM0j" }
+      ]
+    }
+  ]
+},
   {
     "name": "Joy",
     "image": "img/joy.jpg",
@@ -194,6 +298,39 @@
     ]
   },
   {
+  "name": "Ling",
+  "image": "img/ling.jpg",
+  "description": "Assassin",
+  "series": [
+    {
+      "name": "Collector",
+      "items": [
+        { "name": "Default to Collector", "link": "https://sfile.co/xvDNFTMLl84" },
+        { "name": "Basic to Collector", "link": "https://sfile.co/KDb20vu7APC" },
+        { "name": "Dragon Tamer to Collector", "link": "https://sfile.co/eJh3W6d05D3" },
+        { "name": "M World to Collector", "link": "https://sfile.co/hBGLyOdUwe5" },
+        { "name": "Special to Collector", "link": "https://sfile.co/4skTpDmBnWm" },
+        { "name": "Starlight to Collector", "link": "https://sfile.co/GyCw6sqsEq2" },
+        { "name": "Lord Shen to Collector", "link": "https://sfile.co/Pd86EOV5xhB" },
+        { "name": "Neobeast to Collector", "link": "https://sfile.co/hmlJXW8orB3" }
+      ]
+    },
+    {
+      "name": "Neobeast",
+      "items": [
+        { "name": "Default to Neobeast", "link": "https://sfile.co/8mx1ELFqUgN" },
+        { "name": "Basic to Neobeast", "link": "https://sfile.co/1VCY6INX44z" },
+        { "name": "Dragon Tamer to Neobeast", "link": "https://sfile.co/2hMYju5UacJ" },
+        { "name": "Collector to Neobeast", "link": "https://sfile.co/9r2pQFtdK0e" },
+        { "name": "M World to Neobeast", "link": "https://sfile.co/aRGqEjiYiku" },
+        { "name": "Lord Shen to Neobeast", "link": "https://sfile.co/5CEnKwaOHe6" },
+        { "name": "Special to Neobeast", "link": "https://sfile.co/7psoKdDuqkz" },
+        { "name": "Starlight to Neobeast", "link": "https://sfile.co/2aqlR8amKU0" }
+      ]
+    }
+  ]
+},
+  {
     "name": "Lukas",
     "image": "img/lukas.jpg",
     "description": "Fighter",
@@ -208,24 +345,59 @@
     ]
   },
   {
-    "name": "Lancelot",
-    "image": "img/lancelot.jpg",
-    "description": "Assassin",
-    "series": [
-      {
-        "name": "Dawningstar",
-        "items": [
-          { "name": "Epicshop to Dawningstar", "link": "https://www.mediafire.com/file/dzna8ix3hsfwtiu/Lancelot_Dawningstar_Replace_Epic.zip/file" }
-        ]
-      },
-      {
-        "name": "Kishin Densetsu",
-        "items": [
-          { "name": "Dragon Tamer to Kishin Densetsu", "link": "https://sfile.mobi/3r3uo18Lw50" }
-        ]
-      }
-    ]
-  },
+  "name": "Lancelot",
+  "image": "img/lancelot.jpg",
+  "description": "Assassin",
+  "series": [
+    {
+      "name": "Dawningstar",
+      "items": [
+        { "name": "Default to Dawningstar", "link": "https://sfile.co/7EgLLywU7Kr" },
+        { "name": "Basic to Dawningstar", "link": "https://sfile.co/a20SMDHGTez" },
+        { "name": "Dragon Tamer to Dawningstar", "link": "https://sfile.co/6dCKYYbHskD" },
+        { "name": "Epic to Dawningstar", "link": "https://sfile.co/4qOK09iODmN" },
+        { "name": "Champion to Dawningstar", "link": "https://sfile.co/7T2RBLbSTeM" },
+        { "name": "Christmas to Dawningstar", "link": "https://sfile.co/5K4QqwQyVGE" },
+        { "name": "Elite to Dawningstar", "link": "https://sfile.co/94USgTv02I4" },
+        { "name": "Luckybox to Dawningstar", "link": "https://sfile.co/bdSTsEAAX67" },
+        { "name": "Starlight to Dawningstar", "link": "https://sfile.co/7puRmknqV25" },
+        { "name": "Zodiac to Dawningstar", "link": "https://sfile.co/5gwQb626XuT" },
+        { "name": "Kishin Densetsu to Dawningstar", "link": "https://sfile.co/4UmPYkK9Rmt" }
+      ]
+    },
+    {
+      "name": "Kishin Densetsu",
+      "items": [
+        { "name": "Default to Kishin Densetsu", "link": "https://sfile.co/8AhMcK10mTm" },
+        { "name": "Basic to Kishin Densetsu", "link": "https://sfile.co/MgfqJChh9Kz" },
+        { "name": "Elite to Kishin Densetsu", "link": "https://sfile.co/QV8fXpCGtau" },
+        { "name": "Epic to Kishin Densetsu", "link": "https://sfile.co/BX1d0HGGhQy" },
+        { "name": "Starlight to Kishin Densetsu", "link": "https://sfile.co/bOfJAJFil0Q" },
+        { "name": "Christmas to Kishin Densetsu", "link": "https://sfile.co/gRBbBeCLdRj" },
+        { "name": "Champion to Kishin Densetsu", "link": "https://sfile.co/rsOY5zOR0Vh" },
+        { "name": "Dawningstar to Kishin Densetsu", "link": "https://sfile.co/lHuUWy6Ndr1" },
+        { "name": "Luckybox to Kishin Densetsu", "link": "https://sfile.co/PDY5sxXCoWQ" },
+        { "name": "Zodiac to Kishin Densetsu", "link": "https://sfile.co/SNZWWaDeMwX" },
+        { "name": "Dragon Tamer to Kishin Densetsu", "link": "https://sfile.co/VHsQ1Ys4sD1" }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "items": [
+        { "name": "Default to Valentine", "link": "https://sfile.co/1WpEZbTOSMi" },
+        { "name": "Basic to Valentine", "link": "https://sfile.co/2qhoJAWq2Ja" },
+        { "name": "Elite to Valentine", "link": "https://sfile.co/WrPXl6x7Jzr" },
+        { "name": "Epic to Valentine", "link": "https://sfile.co/lTPVFnxrTpm" },
+        { "name": "Champion to Valentine", "link": "https://sfile.co/MyvlIIEFOTe" },
+        { "name": "Christmas to Valentine", "link": "https://sfile.co/UdW4HPWHYz2" },
+        { "name": "Dragon Tamer to Valentine", "link": "https://sfile.co/IMPHL4viJn8" },
+        { "name": "Luckybox to Valentine", "link": "https://sfile.co/GEMIadSpZPo" },
+        { "name": "Starlight to Valentine", "link": "https://sfile.co/NpaBPFtuvWm" },
+        { "name": "Zodiac to Valentine", "link": "https://sfile.co/8etip1x4ZHw" }
+      ]
+    }
+  ]
+},
   {
     "name": "Lapu-Lapu",
     "image": "img/lapu.jpg",
@@ -240,18 +412,20 @@
     ]
   },
   {
-    "name": "Nolan",
-    "image": "img/nolan.jpg",
-    "description": "Assassin",
-    "series": [
-      {
-        "name": "11.11",
-        "items": [
-          { "name": "Basic to 11.11", "link": "https://www.mediafire.com/file/tq5meykcxl6ns0m/Nolan_11.11_Replace_Basic.zip/file" }
-        ]
-      }
-    ]
-  },
+  "name": "Nolan",
+  "image": "img/nolan.jpg",
+  "description": "Assassin",
+  "series": [
+    {
+      "name": "Nexus Sea (11.11)",
+      "items": [
+        { "name": "Default to Nexus Sea", "link": "https://sfile.co/8PZU8lsXuMx" },
+        { "name": "Basic to Nexus Sea", "link": "https://sfile.co/6H1SX77Dxer" },
+        { "name": "Starlight to Nexus Sea", "link": "https://sfile.co/6dtSHktFBe4" }
+      ]
+    }
+  ]
+},
   {
     "name": "Suyou",
     "image": "img/suyou.jpg",
@@ -283,22 +457,23 @@
     ]
   },
   {
-    "name": "Yi Sun Shin",
-    "image": "img/yss.jpg",
-    "description": "Assassin/Marksman",
-    "series": [
-      {
-        "name": "Collector",
-        "items": [
-          { "name": "Default to Collector", "link": "https://sfile.mobi/8Bo72Ni6vmV" },
-          { "name": "Basic to Collector", "link": "https://sfile.mobi/5gy5d8iHjOd" },
-          { "name": "Elite (Roguish Ranger) to Collector", "link": "https://sfile.mobi/3PU4s8cju0J" },
-          { "name": "Elite (Apocalypse Agent) to Collector", "link": "https://sfile.mobi/3mm4bDTjCUl" },
-          { "name": "Starlight to Collector", "link": "https://sfile.mobi/5vk5nzTFvOy" },
-          { "name": "Epic to Collector (On Coming)", "link": "on coming" },
-          { "name": "Season to Collector", "link": "https://sfile.mobi/3Xi4wJN99eT" }
-        ]
-      }
-    ]
-  }
-    ]
+  "name": "Yi Sun Shin",
+  "image": "img/yss.jpg",
+  "description": "Assassin/Marksman",
+  "series": [
+    {
+      "name": "Collector",
+      "items": [
+        { "name": "Default to Collector", "link": "https://sfile.co/3tG2ssD1yMr" },
+        { "name": "Basic to Collector", "link": "https://sfile.co/51I3jEz3T2n" },
+        { "name": "Elite Agent to Collector", "link": "https://sfile.co/8Xu5upsiAMo" },
+        { "name": "Elite Ranger to Collector", "link": "https://sfile.co/5Rq3MykuSAf" },
+        { "name": "Epic to Collector", "link": "https://sfile.co/2aq1KtSEysF" },
+        { "name": "Season to Collector", "link": "https://sfile.co/b6s6GHiare7" },
+        { "name": "Starlight to Collector", "link": "https://sfile.co/6zK4bTZE64y" },
+        { "name": "Special to Collector", "link": "https://sfile.co/z11EIC2lSdo" }
+      ]
+    }
+  ]
+}
+]
