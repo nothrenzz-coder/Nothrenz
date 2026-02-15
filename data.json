@@ -97,6 +97,25 @@
   ]
 },
 {
+  "name": "Benedetta",
+  "image": "img/benedetta.jpg",
+  "description": "Assassin",
+  "series": [
+    {
+      "name": "Soul Vessels",
+      "items": [
+        { "name": "Default to Soul Vessels", "link": "https://sfile.co/AeqoglECEjd" },
+        { "name": "Basic to Soul Vessels", "link": "https://sfile.co/10QIZBk2uHH" },
+        { "name": "Collector to Soul Vessels", "link": "https://sfile.co/AAADmM9eQH0" },
+        { "name": "Starlight to Soul Vessels", "link": "https://sfile.co/aAKiR95r9HF" },
+        { "name": "Special to Soul Vessels", "link": "https://sfile.co/3cOAEtwA0w3" },
+        { "name": "MPL to Soul Vessels", "link": "https://sfile.co/yc78KQuoGo4" },
+        { "name": "Covenant to Soul Vessels", "link": "https://sfile.co/n7LCjHIk7gb" }
+      ]
+    }
+  ]
+},
+{
   "name": "Brody",
   "image": "img/brody.jpg",
   "description": "Marksman",
@@ -116,22 +135,38 @@
   ]
 },
   {
-    "name": "Chou",
-    "image": "img/chou.jpg",
-    "description": "Fighter",
-    "series": [
-      {
-        "name": "KOF",
-        "items": [
-          { "name": "Default to KOF", "link": "https://www.mediafire.com/file/86s0gm3xlgtxzpw/Chou+Default+to+KOF.zip/file" },
-          { "name": "Basic to KOF", "link": "https://www.mediafire.com/file/1y3bmimysz6e8lk/Chou+Basic+to+KOF.zip/file" },
-          { "name": "Elite to KOF", "link": "https://www.mediafire.com/file/nzmjpg1bnfuh28j/Chou+Elite+to+KOF.zip/file" },
-          { "name": "Starlight to KOF", "link": "https://www.mediafire.com/file/gtifybrqpg63q06/Chou+Starlight+to+KOF.zip/file" },
-          { "name": "Special to KOF", "link": "https://www.mediafire.com/file/5oghx00ub9p6cc5/Chou+Special+to+KOF.zip/file" }
-        ]
-      }
-    ]
-  },
+  "name": "Chou",
+  "image": "img/chou.jpg",
+  "description": "Fighter",
+  "series": [
+    {
+      "name": "KOF",
+      "items": [
+        { "name": "Default to KOF", "link": "https://www.mediafire.com/file/86s0gm3xlgtxzpw/Chou+Default+to+KOF.zip/file" },
+        { "name": "Basic to KOF", "link": "https://www.mediafire.com/file/1y3bmimysz6e8lk/Chou+Basic+to+KOF.zip/file" },
+        { "name": "Elite to KOF", "link": "https://www.mediafire.com/file/nzmjpg1bnfuh28j/Chou+Elite+to+KOF.zip/file" },
+        { "name": "Starlight to KOF", "link": "https://www.mediafire.com/file/gtifybrqpg63q06/Chou+Starlight+to+KOF.zip/file" },
+        { "name": "Special to KOF", "link": "https://www.mediafire.com/file/5oghx00ub9p6cc5/Chou+Special+to+KOF.zip/file" }
+      ]
+    },
+    {
+      "name": "Saint Seiya (GOLD)",
+      "items": [
+        { "name": "Default to Saint Seiya", "link": "https://sfile.co/87P3p9xTwI8" },
+        { "name": "Basic to Saint Seiya", "link": "https://sfile.co/7aJ2SHGaKQ8" },
+        { "name": "Elite to Saint Seiya", "link": "https://sfile.co/235042T7LiC" },
+        { "name": "Special to Saint Seiya", "link": "https://sfile.co/7LF3ekkhdmJ" },
+        { "name": "Starlight to Saint Seiya", "link": "https://sfile.co/94V3Xmzc6AP" },
+        { "name": "Echo to Saint Seiya", "link": "https://sfile.co/1OiZVIhfliu" },
+        { "name": "STUN to Saint Seiya", "link": "https://sfile.co/5Rt2bqAPFSd" },
+        { "name": "Dawning to Saint Seiya", "link": "https://sfile.co/agN4AUDuqAb" },
+        { "name": "KOF to Saint Seiya", "link": "https://sfile.co/bOP5sDjNHU7" },
+        { "name": "Luckybox to Saint Seiya", "link": "https://sfile.co/8Q93OR2yHKm" },
+        { "name": "Dragon Shiryu to Saint Seiya", "link": "https://sfile.co/37z0EoGEgMk" }
+      ]
+    }
+  ]
+},
   {
   "name": "Chang'e",
   "image": "img/chang'e.jpg",
@@ -301,6 +336,36 @@
         { "name": "Venom to 11.11", "link": "https://sfile.co/agAfN7IxHi8" },
         { "name": "Legend to 11.11", "link": "https://sfile.co/9N2fwZf3O0A" }
       ]
+    },
+    {
+      "name": "KOF",
+      "items": [
+        { "name": "Default to KOF", "link": "https://sfile.co/7aCsKL7gtyS" },
+        { "name": "Basic to KOF", "link": "https://sfile.co/7Lyt5kgP3aK" },
+        { "name": "Elite to KOF", "link": "https://sfile.co/2wwqc3SWoML" },
+        { "name": "Epic to KOF", "link": "https://sfile.co/5Rms2qxnvGK" },
+        { "name": "Starlight to KOF", "link": "https://sfile.co/9ymu5cEfL27" },
+        { "name": "New Starlight to KOF", "link": "https://sfile.co/1s2pC3UVQQj" },
+        { "name": "Valentine to KOF", "link": "https://sfile.co/6OsszKYTbqJ" },
+        { "name": "11.11 to KOF", "link": "https://sfile.co/4N1lO3OjFeX" },
+        { "name": "Collector to KOF", "link": "https://sfile.co/7aLn7NGh1uZ" },
+        { "name": "Legend to KOF", "link": "https://sfile.co/9jJojnR6WQM" },
+        { "name": "Venom to KOF", "link": "https://sfile.co/2LrkHr3PmUq" }
+      ]
+    },
+    {
+      "name": "Legend",
+      "items": [
+        { "name": "Default to Legend", "link": "https://sfile.co/5CsnGjyJ68O" },
+        { "name": "Basic to Legend", "link": "https://sfile.co/7hSoBLg57Gt" },
+        { "name": "Elite to Legend", "link": "https://sfile.co/1kwlkcHB8MT" },
+        { "name": "OLD Starlight to Legend", "link": "https://sfile.co/2wolZa5XjiZ" },
+        { "name": "Soul Revelation to Legend", "link": "https://sfile.co/8Iwppp5PG0M" },
+        { "name": "Collector to Legend", "link": "https://sfile.co/2DMm3AM1ZyB" },
+        { "name": "Valentine to Legend", "link": "https://sfile.co/7pgoGTBbJm3" },
+        { "name": "Venom to Legend", "link": "https://sfile.co/3ASmAzo1HOj" },
+        { "name": "NEW Starlight to Legend", "link": "https://sfile.co/6VK0wTzFG8J" }
+      ]
     }
   ]
 },
@@ -322,6 +387,20 @@
         { "name": "Luckybox to Aspirant", "link": "https://sfile.co/8fg6ZT2D9CF" },
         { "name": "KOF to Aspirant", "link": "https://sfile.co/3Xk4E811a0T" },
         { "name": "Legend to Aspirant", "link": "https://sfile.co/bOS8ZsSJB67" }
+      ]
+    },
+    {
+      "name": "KOF",
+      "items": [
+        { "name": "Default to KOF", "link": "https://sfile.co/ao3u0tFXlmA" },
+        { "name": "Basic to KOF", "link": "https://sfile.co/6shrQqrKyQJ" },
+        { "name": "Special Amethyst to KOF", "link": "https://sfile.co/22XQEBT0HWf" },
+        { "name": "Special Sakura to KOF", "link": "https://sfile.co/1sbO0IqxTOs" },
+        { "name": "Starlight to KOF", "link": "https://sfile.co/1VJOhcJxKUE" },
+        { "name": "Summer to KOF", "link": "https://sfile.co/4UpPVkQiI8J" },
+        { "name": "Legend to KOF", "link": "https://sfile.co/1dpNScTUv2I" },
+        { "name": "Luckybox to KOF", "link": "https://sfile.co/73nR6dm6HKw" },
+        { "name": "Elite First Purchase to KOF", "link": "https://sfile.co/3tLP7w5NbaC" }
       ]
     }
   ]
@@ -462,6 +541,21 @@
     }
   ]
 },
+{
+  "name": "Ixia",
+  "image": "img/ixia.jpg",
+  "description": "Marksman",
+  "series": [
+    {
+      "name": "Metro Zero",
+      "items": [
+        { "name": "Default to Metro Zero", "link": "https://sfile.co/bli5bC9wha7" },
+        { "name": "Basic to Metro Zero", "link": "https://sfile.co/2E20og69KIE" },
+        { "name": "Starlight to Metro Zero", "link": "https://sfile.co/bA45kiAUEg7" }
+      ]
+    }
+  ]
+},
   {
     "name": "Joy",
     "image": "img/joy.jpg",
@@ -476,36 +570,30 @@
     ]
   },
   {
-    "name": "Julian",
-    "image": "img/julian.jpg",
-    "description": "Mage/Fighter",
-    "series": [
-      {
-        "name": "Jujutsu",
-        "items": [
-          { "name": "Default to Jujutsu", "link": "https://www.mediafire.com/file/4ga7jqw4pi7wrqg/Julian+Default+to+Jujutsu.zip/file" },
-          { "name": "Basic to Jujutsu", "link": "https://www.mediafire.com/file/qmu1t7eeshxntmc/Julian+Basic+to+Jujutsu.zip/file" },
-          { "name": "Meowskin to Jujutsu", "link": "https://www.mediafire.com/file/e6bowvy2hrzvcqf/Julian+Meowskin+to+Jujutsu.zip/file" },
-          { "name": "NARUTO to JJK (On Coming)",
-            "link": "in-coming"
-          }
-        ]
-      },
-      {
-        "name": "NARUTO",
-        "items": [
-          { "name": "Default to NARUTO", "link": "https://sfile.co/F7qFM1IeBGT" },
-          { "name": "Basic to NARUTO", "link": "https://sfile.co/LP1C4OKJULk" },
-          { "name": "Meowskin to NARUTO", "link": "https://sfile.co/BBA6XgqW6mx" },
-          { "name": "JKK to NARUTO",
-            "link": "https://sfile.co/dEBOD8pmOKf" },
-            {"name": "HxH to NARUTO",
-              "link": "https://sfile.co/zpsf1z6N2fG"
-            }
-        ]
-      }
-    ]
-  },
+  "name": "Julian",
+  "image": "img/julian.jpg",
+  "description": "Mage/Fighter",
+  "series": [
+    {
+      "name": "Jujutsu",
+      "items": [
+        { "name": "Default to Jujutsu", "link": "https://sfile.co/5nUQjoQRe8Y" },
+        { "name": "Basic to Jujutsu", "link": "https://sfile.co/1dmO110M1yf" },
+        { "name": "Hunter X Hunter to Jujutsu", "link": "https://sfile.co/7LyS91651Yw" },
+        { "name": "Meowkin Tracker to Jujutsu", "link": "https://sfile.co/3B9hlIsPigD" }
+      ]
+    },
+    {
+      "name": "NARUTO",
+      "items": [
+        { "name": "Default to NARUTO", "link": "https://sfile.co/F7qFM1IeBGT" },
+        { "name": "Basic to NARUTO", "link": "https://sfile.co/LP1C4OKJULk" },
+        { "name": "Meowskin to NARUTO", "link": "https://sfile.co/BBA6XgqW6mx" },
+        { "name": "HxH to NARUTO", "link": "https://sfile.co/zpsf1z6N2fG" }
+      ]
+    }
+  ]
+},
   {
   "name": "Kalea",
   "image": "img/kalea.jpg",
@@ -784,6 +872,26 @@
   ]
 },
 {
+  "name": "Paquito",
+  "image": "img/paquito.jpg",
+  "description": "Fighter",
+  "series": [
+    {
+      "name": "KOF",
+      "items": [
+        { "name": "Default to KOF", "link": "https://sfile.co/3tx5hiGC7eI" },
+        { "name": "Basic to KOF", "link": "https://sfile.co/9Ur8PSimTSc" },
+        { "name": "Fist of Light to KOF", "link": "https://sfile.co/4jf5KJck3mI" },
+        { "name": "Starlight to KOF", "link": "https://sfile.co/bOD9TPwmk07" },
+        { "name": "Underground Boxer to KOF", "link": "https://sfile.co/37n56iyePmL" },
+        { "name": "Collector to KOF", "link": "https://sfile.co/3dVekhyZcey" },
+        { "name": "FMVP to KOF", "link": "https://sfile.co/dZfzzTIdnSJ" },
+        { "name": "Manny Pacquiao to KOF", "link": "https://sfile.co/7XQSPNOFpg5" }
+      ]
+    }
+  ]
+},
+{
   "name": "Pharsa",
   "image": "img/pharsa.jpg",
   "description": "Mage",
@@ -822,6 +930,27 @@
         { "name": "Starlight to Aspirant", "link": "https://sfile.co/8IENzYtTfqW" },
         { "name": "Crescent Dervish to Aspirant", "link": "https://sfile.co/8BkwkzO1LqQ" },
         { "name": "Neon Edge to Aspirant", "link": "https://sfile.co/2wAsYLue4Um" }
+      ]
+    }
+  ]
+},
+{
+  "name": "Roger",
+  "image": "img/roger.jpg",
+  "description": "Fighter/Assassin",
+  "series": [
+    {
+      "name": "Metro Zero",
+      "items": [
+        { "name": "Default to Metro Zero", "link": "https://sfile.co/8fe0x0Na00I" },
+        { "name": "Basic to Metro Zero", "link": "https://sfile.co/5vjZ1od2rCv" },
+        { "name": "Epic Cyborg to Metro Zero", "link": "https://sfile.co/9jI184fIqI3" },
+        { "name": "Epic Phantom to Metro Zero", "link": "https://sfile.co/bA42nUbS367" },
+        { "name": "Luckybox to Metro Zero", "link": "https://sfile.co/aZ823GRPri0" },
+        { "name": "M3 to Metro Zero", "link": "https://sfile.co/aCY1RDeUgg6" },
+        { "name": "Prime to Metro Zero", "link": "https://sfile.co/5K5ZaMjsKkv" },
+        { "name": "Starlight to Metro Zero", "link": "https://sfile.co/3IvY3COHvqZ" },
+        { "name": "Transformers to Metro Zero", "link": "https://sfile.co/5YRZjhQ69az" }
       ]
     }
   ]
@@ -876,6 +1005,25 @@
     ]
   },
   {
+  "name": "X.Borg",
+  "image": "img/xborg.jpg",
+  "description": "Fighter",
+  "series": [
+    {
+      "name": "Metro Zero",
+      "items": [
+        { "name": "Default to Metro Zero", "link": "https://sfile.co/2E25IbEcGEn" },
+        { "name": "Basic to Metro Zero", "link": "https://sfile.co/aKmabGd2yAW" },
+        { "name": "Elite to Metro Zero", "link": "https://sfile.co/bdUasaw2pa7" },
+        { "name": "MCGG to Metro Zero", "link": "https://sfile.co/37A5Z1MIvm6" },
+        { "name": "Starlight to Metro Zero", "link": "https://sfile.co/44G6w0oIdGs" },
+        { "name": "Tesla Maniac to Metro Zero", "link": "https://sfile.co/5gy7aXN4ogr" },
+        { "name": "Transformers to Metro Zero", "link": "https://sfile.co/1OkY4oqUniO" }
+      ]
+    }
+  ]
+},
+  {
     "name": "Xavier",
     "image": "img/xavier.jpg",
     "description": "Mage",
@@ -903,6 +1051,16 @@
         { "name": "Basic to AOT", "link": "https://sfile.co/1kHGSrHWg8g" },
         { "name": "M-World to AOT", "link": "https://sfile.co/6zJJMAFBOE8" },
         { "name": "Starlight to AOT", "link": "https://sfile.co/6OvJUVhuese" }
+      ]
+    },
+    {
+      "name": "Jujutsu",
+      "items": [
+        { "name": "Default to Jujutsu", "link": "https://sfile.co/9FCN3PhygMM" },
+        { "name": "Basic to Jujutsu", "link": "https://sfile.co/1kwIsb1AXGQ" },
+        { "name": "Starlight to Jujutsu", "link": "https://sfile.co/660L5ELvGgn" },
+        { "name": "M-World to Jujutsu", "link": "https://sfile.co/aK7GzrFLNY7" },
+        { "name": "AOT to Jujutsu", "link": "https://sfile.co/8mAS42PEu4e" }
       ]
     }
   ]
